@@ -24,6 +24,3 @@ I'm Ahmed Bouzid, a working student DevOps/Cloud Engineer passionate about cloud
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-bouzid-a91637220/)
-
-## 🔥 My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johndoe&theme=dark&hide_border=true)](https://git.io/streak-stats)
